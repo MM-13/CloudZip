@@ -1,5 +1,5 @@
 How it works:
-1.	Run the .BAT file
+1.	Run the .bat file
 2.	A webpage will open
 2.1.	Klick on the blue button
 2.2.	The page will reload and a token will appear
