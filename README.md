@@ -1,3 +1,7 @@
+This program is still in bèta!
+Their is a BUG which sometimes caueses the program to go into a loop.
+I'm also making the program easier to use.
+
 How it works:
 1.      Run the .bat file
 
@@ -13,3 +17,5 @@ How it works:
         !!!OTHERWISE THE SCRIPT WILL PUT ITSELF IN A LOOP AND IT WILL NOT WORK!!!
         
 6.      After this everything will go automatically. Also the zipfile will be deleted from your pc
+
+Please do keep in mind I am still learning / a beginner.
