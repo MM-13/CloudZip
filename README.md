@@ -1,9 +1,9 @@
 How it works:
-1.	Run the .bat file
+1.      Run the .bat file
 
-2.	A webpage will open, klick on the blue button. The page will reload and a token will appear
+2.      A webpage will open, klick on the blue button. The page will reload and a token will appear
 
-3.	At the same time a file-explorer window will open
+3.      At the same time a file-explorer window will open
 
 4.      You can not do anything until you have filled 
         in the token of you're google drive in the correct place
