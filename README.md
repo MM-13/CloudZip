@@ -1,16 +1,11 @@
-This program is still in bèta!
-Their is a BUG which sometimes caueses the program to go into a loop.
-I'm also making the program easier to use.
-
 How it works:
 1.      Run the .bat file
 
 2.      A webpage will open, klick on the blue button. The page will reload and a acces token will appear
 
-3.      At the same time a file-explorer window will open
+3.      Fill in the Api-token in the Gui(2 windows will pop up)
 
-4.      You can not do anything until you have filled 
-        in the token of you're google drive in the correct place
+4.      Now a explorer window will pop up
         
 5.      Choose your map/directory you want to upload:
         
