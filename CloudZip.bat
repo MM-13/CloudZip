@@ -1,4 +1,2 @@
-cd 'C:\Users\MatthiasMaes\ProjectsIT'
-start CloudZip-v0.1.1.py
-cd 'C:\Users\MatthiasMaes\ProjectsIT'
-start Deleter.py
+call %cd%\CloudZip-v0.1.1.py
+call %cd%\Deleter.py
