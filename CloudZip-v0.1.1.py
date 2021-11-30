@@ -44,7 +44,7 @@ file_path = filedialog.askdirectory()
 os.chdir(file_path)
 
 #make a zip file from the whole directory
-def _walk(path: Path) -> []:
+def _walk(path: Path):
     all_files = []
     for x in path.iterdir():
         if x.is_dir():
