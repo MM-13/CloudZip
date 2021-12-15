@@ -1,7 +1,7 @@
 # CloudZip
 This program will make a zip archiev and upload it to your Google drive automatically.
 
-How it works:
+# How it works
 1. Run the executable file
 
 2. A webpage will open, klick on the blue button. The page will reload and an acces token will appear
