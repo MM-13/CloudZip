@@ -19,8 +19,8 @@ import time
 
 #open configuration API-token google drive
 url = 'https://accounts.google.com/o/oauth2/v2/auth/oauthchooseaccount?redirect_uri=https%3A%2F%2Fdevelopers.google.com%2Foauthplayground&prompt=consent&response_type=code&client_id=407408718192.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&access_type=offline&flowName=GeneralOAuthFlow'
-firefox = webbrowser.Mozilla(r'C:\Program Files\Mozilla Firefox\firefox.exe')
-firefox.open(url)
+#firefox = webbrowser.Mozilla(r'C:\Program Files\Mozilla Firefox\firefox.exe')
+brave = webbrowser.open(url)
 
 #input token
 application_window = tk.Tk()
@@ -29,7 +29,6 @@ token = simpledialog.askstring("Token", "Token:", parent=application_window)
 
 #save file for token
 ti = datetime.datetime.now()
-
 pyperclip.copy('{}'.format(token))
 token = pyperclip.paste()
 
